@@ -1,6 +1,6 @@
 Учебный проект - [Выбор локации для скважины](https://github.com/alexsurina/study-project-geo/blob/main/geo.ipynb)
 
-Инструменты: Python, pandas, numpy, sklearn, Bootstrap, ML  
+Инструменты: Python, pandas, numpy, sklearn, Bootstrap, ML, LinearRegression  
 
 Описание: Построить прототип модели машинного обучения, с целью определения региона для разработки новых нефтяных месторождений, где добыча нефти принесет наибольшую прибыль с наименьшим риском убытков. 
 
